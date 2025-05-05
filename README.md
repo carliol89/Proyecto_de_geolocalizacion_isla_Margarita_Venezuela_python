@@ -1,2 +1,2 @@
-proyecto final del curso de Python aplicado a las ciencias  ambientales, donde se hizo un proyecto que tenia como proposito identificar visualmente las zonas en las cuales se habia recolectados muestras en las zonas costeras de  la isla de Margarita en Venezuela y se cosntruyeron algunas serias temporales de las variables mas significativas obtenidas en esa toma de datos, como 
-lo fueron temeperatura, salinidad, ph,Clorofila.
+proyecto final del curso de Python aplicado a las ciencias  ambientales, donde se hizo un proyecto que tenia como proposito identificar visualmente las zonas en las cuales se habia recolectados muestras en las regiones costeras de  la isla de Margarita en Venezuela y se construyeron algunas serias temporales de las variables mas significativas obtenidas en esa toma de datos, como 
+lo fueron temperatura, salinidad, ph,Clorofila.
